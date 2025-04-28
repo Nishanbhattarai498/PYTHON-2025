@@ -34,4 +34,4 @@ Welcome to **Python 2025** - your comprehensive guide to modern Python developme
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nishanbhattarai498/PYTHON-2025.git
-   cd python-2025
+   cd PYTHON-2025
