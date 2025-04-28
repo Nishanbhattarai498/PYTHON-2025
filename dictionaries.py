@@ -8,3 +8,21 @@
 # # Dictionaries can be concatenated, meaning you can combine two or more dictionaries into one using the update() method or the | operator.
 # # Dictionaries can be repeated, meaning you can repeat a dictionary multiple times using the * operator.
 # # Dictionaries can be sorted, meaning you can sort the items in a dictionary using the sorted() function.
+
+capitals={
+    'USA':'Washington D.C.',
+    'Canada':'Ottawa',
+    'Mexico':'Mexico City',
+    'France':'Paris',
+    'Germany':'Berlin',
+    'Italy':'Rome',
+    'Spain':'Madrid',
+    'UK':'London',
+    'Russia':'Moscow',
+    'China':'Beijing',
+    'Japan':'Tokyo',
+    'India':'New Delhi',
+    'Brazil':'Brasilia',
+    'Argentina':'Buenos Aires',
+    'Australia':'Canberra'
+}
