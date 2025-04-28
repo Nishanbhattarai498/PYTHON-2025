@@ -3,3 +3,8 @@
 # # Dictionaries are unordered, meaning the items do not have a defined order and that order may change over time. Dictionaries allow duplicate values.
 # # Dictionaries are indexed, meaning each item has a corresponding key, which is used to access the value. The keys must be unique and immutable (cannot be changed).
 # # Dictionaries are iterable, meaning you can loop through the items in a dictionary using a for loop or other iteration methods.
+# # Dictionaries can be nested, meaning you can have dictionaries within dictionaries.
+# # Dictionaries can be sliced, meaning you can access a range of items in a dictionary using the keys.
+# # Dictionaries can be concatenated, meaning you can combine two or more dictionaries into one using the update() method or the | operator.
+# # Dictionaries can be repeated, meaning you can repeat a dictionary multiple times using the * operator.
+# # Dictionaries can be sorted, meaning you can sort the items in a dictionary using the sorted() function.
