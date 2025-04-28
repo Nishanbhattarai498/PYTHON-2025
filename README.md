@@ -19,11 +19,11 @@ This project helps beginners:
 1. Make sure you have Python installed (version 3.8 or higher)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/my-first-python-project.git
+   git clone https://github.com/Nishanbhattarai498/PYTHON-2025.git
    ```
 3. Navigate to the project folder:
    ```bash
-   cd my-first-python-project
+   cd PYTHON-2025
    ```
 
 ## 🚀 How to Run
@@ -36,7 +36,7 @@ python main.py
 ## 📂 Project Structure
 
 ```
-my-first-python-project/
+PYTHON-2025/
 ├── main.py          # Main program file
 ├── utils/           # Helper functions
 │   └── helpers.py   # Utility functions
@@ -79,19 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Feel free to star this repository if you found it helpful!
 ```
 
-### Why this works well for beginners:
-1. **Simple structure** - Easy to understand organization
-2. **Clear instructions** - Step-by-step setup guide
-3. **Basic badges** - Just Python and GitHub badges
-4. **Minimal requirements** - Only needs Python 3.8+
-5. **Encouraging tone** - Welcomes beginner contributions
-6. **Helpful resources** - Links to learning materials
 
-### Customization Tips:
-1. Replace `yourusername` with your GitHub username
-2. Update the project name if different
-3. Add specific features you've implemented
-4. Include screenshots if your project has a visual component
-5. Add your contact info if you want feedback
-
-This template gives you a professional-looking README while keeping things simple enough for your first project!
