@@ -26,5 +26,27 @@ capitals={
     'Argentina':'Buenos Aires',
     'Australia':'Canberra'
 }
-print(capitals['USA']) # Washington D.C.
-print(capitals['Canada']) # Ottawa
+# # print(capitals['USA']) # Washington D.C.
+# # print(capitals['Canada']) # Ottawa
+# # print(capitals['Mexico']) # Mexico City
+# # print(capitals.get('France')) # Paris
+
+# # print(capitals.keys()) # dict_keys(['USA', 'Canada', 'Mexico', 'France', 'Germany', 'Italy', 'Spain', 'UK', 'Russia', 'China', 'Japan', 'India', 'Brazil', 'Argentina', 'Australia'])
+# # print(capitals.values()) # dict_values(['Washington D.C.', 'Ottawa', 'Mexico City', 'Paris', 'Berlin', 'Rome', 'Madrid', 'London', 'Moscow', 'Beijing', 'Tokyo', 'New Delhi', 'Brasilia', 'Buenos Aires', 'Canberra'])
+# # print (capitals.items()) # dict_items([('USA', 'Washington D.C.'), ('Canada', 'Ottawa'), ('Mexico', 'Mexico City'), ('France', 'Paris'), ('Germany', 'Berlin'), ('Italy', 'Rome'), ('Spain', 'Madrid'), ('UK', 'London'), ('Russia', 'Moscow'), ('China', 'Beijing'), ('Japan', 'Tokyo'), ('India', 'New Delhi'), ('Brazil', 'Brasilia'), ('Argentina', 'Buenos Aires'), ('Australia', 'Canberra')])
+
+# for key, value in capitals.items():
+#     print(f'The capital of {key} is {value}.')
+#     print(key, value)
+
+
+capitals.update({
+    'india':'Delhi',
+})
+
+print(capitals)
+
+capitals.pop('USA')
+print(capitals)
+capitals.clear()
+print(capitals)
