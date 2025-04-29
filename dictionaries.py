@@ -26,3 +26,5 @@ capitals={
     'Argentina':'Buenos Aires',
     'Australia':'Canberra'
 }
+print(capitals['USA']) # Washington D.C.
+print(capitals['Canada']) # Ottawa
