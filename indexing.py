@@ -14,4 +14,7 @@ print(first_name)
 
 last_name=name[7:16].lower()
 print(last_name)
+
+last_character=name[-1] # negative indexing
+print(last_character)
     
