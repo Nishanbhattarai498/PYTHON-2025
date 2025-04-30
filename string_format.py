@@ -10,12 +10,19 @@
 # print("The {animal} is on the {item}".format(animal=item,item=item))#keyword argument
 # # The Cow is on the moon
 
-name = "Nishan"
+# name = "Nishan"
 
-print("Hello, my name is {}".format(name))#format method
-print("Hello,my name is {:15} . hey silly".format(name))#format method with width
-print("Hello,my name is {:<15} . hey silly".format(name))#format method with width left aligned
-print("Hello,my name is {:>15} . hey silly".format(name))#format method with width right aligned
-print("Hello,my name is {:^15} . hey silly".format(name))#format method with width center aligned
+# print("Hello, my name is {}".format(name))#format method
+# print("Hello,my name is {:15} . hey silly".format(name))#format method with width
+# print("Hello,my name is {:<15} . hey silly".format(name))#format method with width left aligned
+# print("Hello,my name is {:>15} . hey silly".format(name))#format method with width right aligned
+# print("Hello,my name is {:^15} . hey silly".format(name))#format method with width center aligned
 
+
+number= 1000
+print("The value of pi is {:.2f}".format(number))#format method with precision
+print("The value of pi is {:,}".format(number))#format method with precision
+print("The value of pi is {:b}".format(number))#format method with precision
+print("The value of pi is {:X}".format(number))#format method with precision
+print("The value of pi is {:E}".format(number))#format method with precision
 
