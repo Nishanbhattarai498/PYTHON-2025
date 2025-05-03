@@ -7,4 +7,6 @@
 
 import shutil
 import os
-shutil.copyfile('test.txt','copy.txt')     
+shutil.copyfile('test.txt','copy.txt')    
+  #copy the content of test.txt to copy.txt 
+  
