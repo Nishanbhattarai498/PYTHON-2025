@@ -27,17 +27,6 @@ cd PYTHON-2025
 pip install -r requirements.txt
 ```
 
-## 🏗️ Project Structure
-
-```
-PYTHON-2025/
-├── main.py               # Application entry point
-├── utils/                # Utility modules
-│   └── helpers.py        # Common helper functions
-├── data/                 # Data storage directory
-├── requirements.txt      # Dependency specifications
-└── README.md             # Project documentation
-```
 
 ## 🚀 Features
 
