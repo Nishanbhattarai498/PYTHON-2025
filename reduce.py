@@ -1,0 +1,1 @@
+#reduce()=apply a function to an iterable 
